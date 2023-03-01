@@ -1,5 +1,10 @@
 #include <stdio.h>
-/*this is a program to print message to the console using puts*/
+
+/**
+ *main - Entry point*
+ *
+ * Return: Always 0 (success
+ */
 int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
