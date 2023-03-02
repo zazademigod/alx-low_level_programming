@@ -2,9 +2,8 @@
 /**
  * main -Entry point of the program
  *
- * Description: print the size of the Types
- *
- * return: always 0 (success)*/
+ * return: always 0 (success)
+ */
 int main(void)
 {
 	printf("The size of an int is: %lu, \n" , (unsigned long)sizeof(int));
