@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - this is the entry of tr progrsm
+/**
+ * main - this is the entry of tr progrsm
  *
  * Description: to print alphabets except q and e
  *
