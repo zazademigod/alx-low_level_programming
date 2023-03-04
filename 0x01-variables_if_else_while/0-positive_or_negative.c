@@ -3,16 +3,14 @@
 #include <time.h>
 /* *
  * main - Entry point of the program
- *
+ * Description: generate output based on random number
  * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
