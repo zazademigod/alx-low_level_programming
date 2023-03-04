@@ -11,48 +11,20 @@ int main(void)
 {
 	char c;
 
-	for (c = 0; c < 16;)
+	char d;
+
+	for (c = 0; c < 10;)
 	{
-		if (c < 10)
-		{
-			putchar (c + '0');
-		}
-
-		else
-		{
-			if (c == 10)
-			{
-				putchar ('a');
-			}
-
-			else if (c == 11)
-			{
-				putchar ('b');
-			}
-
-			else if (c == 12)
-			{
-				putchar ('c');
-			}
-
-			else if (c == 13)
-			{
-				putchar ('d');
-			}
-
-			else if (c == 14)
-			{
-				putchar ('e');
-			}
-
-			else if (c == 15)
-			{
-				putchar ('f');
-			}
-		}
-
+		putchar (c + '0');
 		c++;
 	}
+
+	for (d = 'a'; d <= 'f';)
+	{
+		putchar (d);
+		d++;
+	}
+
 	putchar ('\n');
 
 	return (0);
