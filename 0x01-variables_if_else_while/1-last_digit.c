@@ -7,7 +7,7 @@
  *
  * Description: This prints the last digit of a random number
  *
- * Result: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 
