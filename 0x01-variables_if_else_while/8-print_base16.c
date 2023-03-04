@@ -20,32 +20,32 @@ int main(void)
 
 		else
 		{
-			if (i == 10)
+			if (c == 10)
 			{
 				putchar ('a');
 			}
 
-			else if (i == 11)
+			else if (c == 11)
 			{
 				putchar ('b');
 			}
 
-			else if (i == 12)
+			else if (c == 12)
 			{
 				putchar ('c');
 			}
 
-			else if (i == 13)
+			else if (c == 13)
 			{
 				putchar ('d');
 			}
 
-			else if (i == 14)
+			else if (c == 14)
 			{
 				putchar ('e');
 			}
 
-			else if (i == 15)
+			else if (c == 15)
 			{
 				putchar ('f');
 			}
