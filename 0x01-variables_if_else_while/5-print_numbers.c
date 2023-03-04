@@ -11,12 +11,14 @@ int main(void)
 {
 	char c;
 
-	for (c = 0; c <=9;)
+	for (c = 0; c <= 9;)
 	{
-		printf("%d\n", c);
+		printf("%d", c);
 
 		c++;
 	}
+	
+	putchar('\n');
 
 	return (0);
 }
