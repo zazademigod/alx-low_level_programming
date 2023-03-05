@@ -2,7 +2,8 @@
 /**
  * main - entry to the program
  *
- * Description: this is a program to print possible combination of single figures
+ * Description: this is a program to print possible
+ * combination of single figures
  * without repeating any combination
  * Return: Always 0 for successful
  */
