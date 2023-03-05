@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha(int c) - this is the function
+ * _isalpha - this is the function
  * @c: the value to test
  * Return: print 1 for success
  * print 0 for otherwise
