@@ -1,2 +1,2 @@
-#General
-Allowed editors: vi, vim, emacson’t forget to push your header file
+#this is a folder for testing operators and other c functionalities
+thie will be up dated as time goes on
